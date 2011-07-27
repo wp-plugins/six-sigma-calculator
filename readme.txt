@@ -1,4 +1,5 @@
-=== Plugin Name ===
+== Plugin Name ==
+
 License:  GPLv2, 
 Author: Junglee Labs
 Tags: six sigma, Cp, Process capability, Pp, CpK
@@ -19,7 +20,7 @@ Let me know of your feedback :)
 
 1. Download the plugin.
 2. Extract It.
-3. Upload admin-bar-as-menu folder to the /wp-content/plugins/ directory.
+3. Upload six sigma calculator folder to the /wp-content/plugins/ directory.
 2. Activate the plugin through the Plugins section of WordPress admin area
 3. You are set to go now.
 
